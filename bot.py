@@ -1,6 +1,5 @@
 from doctest import master
 import ccxt
-import config
 import time_converter
 
 exchange = ccxt.binance()
